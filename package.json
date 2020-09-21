@@ -12,13 +12,14 @@
   "author": "yan.yu",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.20",
+    "romanize": "^1.1.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.4",
     "@babel/preset-env": "^7.4.4",
-    "babel-jest": "^24.8.0",
-    "jest": "^24.8.0"
+    "babel-jest": "^26.3.0",
+    "jest": "^26.4.2"
   }
 }
